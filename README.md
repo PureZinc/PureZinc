@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @PureZinc
-- 👀 I’m most interested in Back-End Development (but Front-End Development is cool too)
-- 🌱 I’m currently learning (and most experienced with) Back-End Development in Python
-- 🤓 Complete Amateur Beginner: I have only 2 months of experience with Software Development
+- 👀 I’m most interested in Full-Stack Web Development
+- 🌱 I’m currently learning JavaScript, and Front-End Development
+- 🧠 I have knowledge in Django and Flask Development in Python
+- 🤓 Complete Amateur Beginner: I have only 3 months of experience with Software Development
 - 🎯 My next big goal is becoming a full-time Developer (freelancing as well)
-- 💪 My biggest motivator is conquering the future with AI (Also, coding is a lot of fun!)
+- 💪 My biggest motivator is getting a job, starting a business, and conquering the future with AI (Also, programming is pretty fun!)
 - 📫 Reach out to my eMail: nicholaslee022@gmail.com
 
 <!---
