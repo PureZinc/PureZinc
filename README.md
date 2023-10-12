@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PureZinc
-- 👀 I’m most interested in Full-Stack Web Development
+- 👀 I’m most interested in Full-Stack Web/App Development
 - 🌱 I’m currently learning JavaScript, and Front-End Development
 - 🧠 I have knowledge in Django and Flask Development in Python
 - 🤓 Complete Amateur Beginner: I have only 3 months of experience with Software Development
