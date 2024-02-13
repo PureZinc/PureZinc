@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicholas Galupi, an IT Student, at @PureZinc
+- 👋 Hi, I’m Nicholas Galupi from @PureZinc, an IT Student at Keiser University.
 - 👀 I’m most interested in Full-Stack Web/App Development, but love programming all-round
 - 🌱 I’m currently learning Next.js, and other web frameworks.
 - 🧠 I have knowledge in Django, React, and Development skills in Python, HTML, and JavaScript
